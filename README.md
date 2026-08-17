@@ -3,16 +3,16 @@
 <!-- 打字动画：把下面 lines 里的文案换成你自己的，用 ; 分隔多句轮播 -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=Medical+AI+%C3%97+Bioinformatics+Explorer;%E4%B8%AD%E7%A7%91%E9%99%A2%E5%9C%A8%E8%AF%BB%E5%8D%9A%E5%A3%AB;LLM+%7C+Medical+AI+%7C+Bioinformatics;%E8%BF%90%E8%90%A5+MedAl-Learner+%E5%85%AC%E4%BC%97%E5%8F%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=PhD%20Candidate%20%40%20CAS%20%C2%B7%20Medical%20AI;%E5%8C%BB%E5%AD%A6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20%C3%97%20%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6;Building%20Clinical%20LLMs%20%26%20Multimodal%20Models;%E5%85%AC%E4%BC%97%E5%8F%B7%20MedAl-Learner%20%C2%B7%20%E9%A1%B6%E5%88%8A%E7%B2%BE%E8%AF%BB)](https://git.io/typing-svg)
 
 </div>
 
 ## 🎓 About Me
 
 - 🏫 中科院在读博士（计算机 / AI 方向）
-- 🔭 研究方向：**医学人工智能（Medical AI）**、**生物信息学（Bioinformatics）**、**大语言模型（LLM）**、**多智能体系统（Multi-Agent）**
+- 🔭 研究方向：**医学人工智能（Medical AI）**、**生物信息学（Bioinformatics）**、**大语言模型（LLM）**
 - 🌱 关注 AI for Science、多模态医学基础模型、临床决策支持
-- ✍️ 公众号 **MedAl-Learner**，拆解顶刊论文、分享 AI×Med 干货
+- ✍️ 运营个人公众号 **MedAl-Learner**，拆解顶刊论文、分享 AI×Bio 干货
 
 ## 🛠️ Tech Stack
 
@@ -84,9 +84,9 @@
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/starsman-lab"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <!-- 把下面的邮箱换成你自己的 -->
-  <a href="wangzixing26@mails.ucas.ac.cn"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <!-- 可选：知乎 / B站 / 公众号 等，自行增删 -->
-  <a href="https://www.zhihu.com/people/wang-zi-xing-9-26"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu"/></a>
+  <a href="https://www.zhihu.com/people/"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu"/></a>
 </div>
 
 ---
