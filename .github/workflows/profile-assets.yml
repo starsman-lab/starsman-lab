@@ -26,7 +26,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # 2) GitHub 统计卡片（需要 STATS_TOKEN 的 read:user 权限）
+      # 若未配置 STATS_TOKEN，则跳过本步，保留 output 分支已有的手动渲染结果，避免回退成错误卡
       - name: Generate stats card
+        if: ${{ secrets.STATS_TOKEN != '' }}
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
@@ -36,6 +38,7 @@ jobs:
 
       # 3) 最常用的语言卡片
       - name: Generate top-langs card
+        if: ${{ secrets.STATS_TOKEN != '' }}
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
