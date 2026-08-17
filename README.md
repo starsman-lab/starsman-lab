@@ -10,9 +10,9 @@
 ## 🎓 About Me
 
 - 🏫 中科院在读博士（计算机 / AI 方向）
-- 🔭 研究方向：**医学人工智能（Medical AI）**、**生物信息学（Bioinformatics）**、**大语言模型（LLM）**
+- 🔭 研究方向：**医学人工智能（Medical AI）**、**生物信息学（Bioinformatics）**、**大语言模型（LLM）**、**多智能体系统（Multi-Agent）**
 - 🌱 关注 AI for Science、多模态医学基础模型、临床决策支持
-- ✍️ 运营个人公众号 **MedAl-Learner**，拆解顶刊论文、分享 AI×Bio 干货
+- ✍️ 公众号 **MedAl-Learner**，拆解顶刊论文、分享 AI×Med 干货
 
 ## 🛠️ Tech Stack
 
@@ -84,9 +84,9 @@
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/starsman-lab"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <!-- 把下面的邮箱换成你自己的 -->
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="wangzixing26@mails.ucas.ac.cn"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <!-- 可选：知乎 / B站 / 公众号 等，自行增删 -->
-  <a href="https://www.zhihu.com/people/"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu"/></a>
+  <a href="https://www.zhihu.com/people/wang-zi-xing-9-26"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu"/></a>
 </div>
 
 ---
