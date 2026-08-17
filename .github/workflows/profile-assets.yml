@@ -30,7 +30,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
