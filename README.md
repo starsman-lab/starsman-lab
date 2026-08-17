@@ -9,10 +9,10 @@
 
 ## 🎓 About Me
 
-- 🏫 中科院在读博士（计算机 / AI 方向）
-- 🔭 研究方向：**医学人工智能（Medical AI）**、**生物信息学（Bioinformatics）**、**大语言模型（LLM）**、**多智能体系统（Multi-Agent Systems）**
-- 🌱 关注 AI for Science、多模态医学基础模型、临床决策支持
-- ✍️ 公众号 **MedAl-Learner**，拆解顶刊论文、分享 AI×Med 干货
+- 🏫 PhD Candidate @ CAS · Computer Science / AI
+- 🔭 Research: **Medical AI**, **Bioinformatics**, **LLM**, **Multi-Agent Systems**
+- 🌱 AI for Science · Multimodal Medical Foundation Models · Clinical Decision Support
+- ✍️ Author of **MedAl-Learner** — paper breakdowns & AI×Med insights
 
 ## 🛠️ Tech Stack
 
@@ -52,9 +52,9 @@
 
 ## 🎯 Current Focus
 
-- 🤖 医学多模态基础模型 / Clinical LLM
-- 🧬 生物信息学中的机器学习方法
-- 📚 顶刊论文精读与开源复现
+- 🤖 Multimodal Medical Foundation Models / Clinical LLM
+- 🧬 Machine Learning for Bioinformatics
+- 📚 Close reading top-tier papers · Open-source reproduction
 
 ## 📊 GitHub Stats
 
