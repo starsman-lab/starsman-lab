@@ -1,15 +1,1 @@
-
-    <svg width="495" height="120" viewBox="0 0 495 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2F80ED }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #252525 }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="494" height="99%" rx="4.5" fill="#FFFEFE" stroke="#E4E2E2"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://git.io/JJmN9</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Maximum retries exceeded</tspan>
-      <tspan x="25" dy="18" class="gray">Please add an env variable called PAT_1 with your github token in vercel</tspan>
-    </text>
-    </svg>
-  
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg"><rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#1a1b26" stroke="#7aa2f7"/><g transform="translate(25,25) scale(0.8)" fill="#7aa2f7"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></g><text x="55" y="38" class="small" fill="#7982a9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Total Stars Earned</text><text x="470" y="38" text-anchor="end" fill="#a6accd" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="600">2</text><g transform="translate(25,58) scale(0.8)" fill="#7aa2f7"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 4c1.93 0 3.5 1.57 3.5 3.5S13.93 13 12 13s-3.5-1.57-3.5-3.5S10.07 6 12 6zm0 14c-2.76 0-5-2.24-5-5h10c0 2.76-2.24 5-5 5z"/></g><text x="55" y="71" class="small" fill="#7982a9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Total Commits (2026)</text><text x="470" y="71" text-anchor="end" fill="#a6accd" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="600">49</text><g transform="translate(25,91) scale(0.8)" fill="#7aa2f7"><path d="M18 13a3 3 0 1 0-2.18-5.12L8 11.4V8a3 3 0 1 0-2 0v8a3 3 0 1 0 2 0v-3.4l7.82 3.52A3 3 0 0 0 18 13z"/></g><text x="55" y="104" class="small" fill="#7982a9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Total PRs</text><text x="470" y="104" text-anchor="end" fill="#a6accd" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="600">0</text><g transform="translate(25,124) scale(0.8)" fill="#7aa2f7"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm0 5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zm1 5h-2v5h2v-5z"/></g><text x="55" y="137" class="small" fill="#7982a9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Total Issues</text><text x="470" y="137" text-anchor="end" fill="#a6accd" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="600">1</text><g transform="translate(25,157) scale(0.8)" fill="#7aa2f7"><path d="M12 2l9 4.5v11L12 22 3 17.5v-11L12 2z"/></g><text x="55" y="170" class="small" fill="#7982a9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Contributed to (1)</text><text x="470" y="170" text-anchor="end" fill="#a6accd" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="600">1</text></svg>
